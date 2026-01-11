@@ -52,5 +52,5 @@ We welcome ideas, feedback, and collaboration!
 
 ## 📬 Contact
 
-If you are interested in our project, you can contact with this email: admin@sessatakuma.dev
+If you are interested in our project, you can contact us at this email: admin@sessatakuma.dev
 
