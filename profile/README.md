@@ -1,56 +1,21 @@
+<div align="center">
+
 # Sessatakuma
 
-*Helping Japanese learners improve their speaking through AI and community practice.*
+</div>
 
+Reading and listening are easy to practice alone. Speaking isn't. You need someone to talk to, and you need feedback. That's the gap we're working on, with AI for feedback and a community to practice with.
 
-## 📖 About Us
+## What we're building
 
-Sessatakuma is a team dedicated to supporting Japanese learners by combining **AI technology** with a **well-designed practice community**.
-Our mission is to make language practice more engaging, accessible, and effective—especially for learners who want to gain confidence in **speaking**.
+Talkuma is where most of our effort goes; the rest are smaller tools we build around it.
 
+| Project | What it does | What's next |
+| --- | --- | --- |
+| **Talkuma** | Community platform for speaking practice. Practice Japanese with friends on live calls and improve with AI feedback. | In dev |
+| **[Akuma](https://akuma.sessatakuma.dev/)** | Annotates Japanese text with readings and pitch accent, from short passages to long ones. | Chrome extension |
+| **[JaCarda](https://jacarda.sessatakuma.dev/)** | Flashcard generator that turns words with their pronunciations and example sentences into cards. Built for our community. | |
 
-## 🎯 Goals
+## Feedback
 
-* Build tools that leverage AI to provide **personalized speaking practice**
-* Design a **community-driven environment** where learners can practice together
-* Encourage **consistent learning habits** through interactive exercises and peer support
-
-
-## 🚀 Features (Planned / In Progress)
-
-* 🤖 **AI Trainer** – Practice speaking with feedback from AIs
-* 🗣️ **Community Practice Rooms** – Join group sessions for real conversations
-* 📊 **Progress Tracking** – Monitor speaking improvement over time
-* 🎮 **Gamified Challenges** – Stay motivated with fun practice goals
-
-
-## 👥 Team
-
-We are a small but passionate group of builders and learners:
-
-* AI & Language Tech Enthusiasts
-* Japanese Learners Ourselves
-* Designers of Interactive Learning Communities
-
-
-## 🤝 Contributing
-
-We welcome ideas, feedback, and collaboration!
-
-* 💡 Have a feature idea? Open an issue.
-* 🐛 Found a bug? Report it with details.
-* 📝 Want to contribute? Submit a pull request or reach out.
-
-
-## 📌 Roadmap
-
-* [ ] Complete front-end surface
-* [ ] Create community practice platform (based on Discord)
-* [ ] Complete the feedback system
-* [ ] Launch our project for people to try out
-
-
-## 📬 Contact
-
-If you are interested in our project, you can contact with this email: sessatakuma001@gmail.com
-
+Got thoughts or found something broken? Open an issue.
